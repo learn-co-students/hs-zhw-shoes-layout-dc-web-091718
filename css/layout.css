@@ -25,3 +25,28 @@
 /* Posititoning Classes */
 
 
+.pick {
+  display: block;
+}
+
+#yep {
+  float: left;
+}
+
+#nop {
+  float: right;
+}
+.newspaper {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+
+#main {
+  float: right;
+}
+
+#sidebar {
+  float: left;
+}
